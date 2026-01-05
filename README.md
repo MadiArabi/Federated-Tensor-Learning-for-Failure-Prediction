@@ -25,7 +25,7 @@ The proposed method:
 
 data/
 src/
-├── main.py //
-├── utils.py //
-├── regression.py //
+├── main.py /
+├── utils.py /
+├── regression.py /
 └── tensor_learning.py
