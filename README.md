@@ -23,9 +23,9 @@ The proposed method:
 
 ## 📂 Repository Structure
 
-data/
-src/
-├── main.py /
-├── utils.py /
-├── regression.py /
-└── tensor_learning.py
+data/ # Datasets and preprocessing outputs
+src/ # Source code
+├── main.py # Entry point
+├── utils.py # Helper functions
+├── regression.py # Failure time regression models
+└── tensor_learning.py # Tensor projection & subspace learning
